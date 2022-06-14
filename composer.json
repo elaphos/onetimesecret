@@ -24,5 +24,10 @@
     "psr-4": {
       "Zwo3\\Onetimesecret\\Tests\\": "Tests/"
     }
+  },
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "onetimesecret"
+    }
   }
 }
